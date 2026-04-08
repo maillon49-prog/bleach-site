@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title>AIZEN poster</title>
+  <desc>Poster artistico local de AIZEN</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#140d0d"/>
+      <stop offset="100%" stop-color="#342121"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <circle cx="650" cy="240" r="185" fill="#a78cff" opacity="0.22"/>
+  <circle cx="700" cy="240" r="110" fill="#dbcfff" opacity="0.10"/>
+  <path d="M0 1060 L900 830 L900 1200 L0 1200 Z" fill="#08090d" opacity="0.92"/>
+  <path d="M292 352 C337 276 419 227 516 227 C597 227 667 269 713 345 C758 418 750 541 710 649 C651 808 546 902 431 902 C332 902 265 816 237 705 C208 591 223 464 292 352 Z" fill="#f5f1ef"/>
+  <path d="M338 322 C407 239 515 218 631 284 C582 342 502 385 410 403 C378 409 352 390 338 322 Z" fill="#37264f"/>
+  <path d="M314 531 C377 470 447 441 531 437 C604 433 666 450 719 488 C684 592 574 657 468 673 C377 688 338 638 314 531 Z" fill="#191217"/>
+  <circle cx="497" cy="371" r="20" fill="#211829"/>
+  <path d="M457 428 Q512 408 558 427" stroke="#211829" stroke-width="11" fill="none" stroke-linecap="round"/>
+  <text x="74" y="952" fill="#f7f1e8" font-size="118" font-family="Bebas Neue, Arial, sans-serif" letter-spacing="6">AIZEN</text>
+  <text x="78" y="1037" fill="#dbcfff" font-size="42" font-family="Rajdhani, Arial, sans-serif" letter-spacing="9">SOSUKE // PERFECT MANIPULATION</text>
+</svg>

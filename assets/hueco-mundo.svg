@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title>HUECO MUNDO</title>
+  <desc>WHITE SANDS, MOONLIGHT AND HOLLOW POWER</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1111"/>
+      <stop offset="100%" stop-color="#1b2f2f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1190" cy="220" r="220" fill="#86efd3" opacity="0.18"/>
+  <circle cx="1320" cy="250" r="120" fill="#effff9" opacity="0.14"/>
+  <path d="M0 760 C240 620 390 610 590 690 C770 760 930 780 1120 690 C1290 610 1410 620 1600 730 L1600 900 L0 900 Z" fill="#090a0f" opacity="0.9"/>
+  <path d="M150 600 C290 370 450 270 650 260 C840 250 990 340 1110 520" stroke="#86efd3" stroke-width="16" fill="none" opacity="0.5" stroke-linecap="round"/>
+  <path d="M280 650 C430 470 560 410 730 420 C900 430 1030 500 1230 700" stroke="#effff9" stroke-width="10" fill="none" opacity="0.45" stroke-linecap="round"/>
+  <text x="100" y="250" fill="#f7f1e8" font-size="168" font-family="Bebas Neue, Arial, sans-serif" letter-spacing="8">HUECO MUNDO</text>
+  <text x="106" y="330" fill="#effff9" font-size="44" font-family="Rajdhani, Arial, sans-serif" letter-spacing="9">WHITE SANDS, MOONLIGHT AND HOLLOW POWER</text>
+</svg>
